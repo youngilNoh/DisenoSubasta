@@ -2,14 +2,71 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@color/colorWhite">
+    android:background="@color/colorWhite"
+    android:orientation="vertical">
 
-    <include layout="@layout/title"/>
+    <include layout="@layout/title" />
 
-    <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="15dp">
+
+            <ImageButton
+                android:id="@+id/uploadbtn"
+                android:layout_width="155dp"
+                android:layout_height="74dp"
+                android:background="@android:color/transparent"
+                android:scaleType="fitCenter"
+                android:src="@drawable/main_upload_btn"
+                android:contentDescription="업로드 이동 버튼"/>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:layout_width="116dp"
+                    android:layout_height="match_parent"
+                    android:hint="shoes, nike, yeezy"
+                    android:layout_marginTop="21dp"
+                    android:inputType="text"
+                    android:textColor="@color/colorBlack"
+                    android:textColorHint="#ffdddddd"
+                    android:textSize="21dp"
+                    android:background="@drawable/border_bottom"
+                    android:layout_marginRight="10dp"/>
+
+                <ImageButton
+                    android:id="@+id/searchbtn"
+                    android:layout_width="17dp"
+                    android:layout_height="match_parent"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/search_btn"
+                    android:contentDescription="키워드 검색 버튼"
+                    android:layout_marginTop="23dp"
+                    android:layout_marginRight="20dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        
+    </LinearLayout>
 
 </LinearLayout>
