@@ -65,6 +65,7 @@ public class MainActivity extends Activity {
             case R.id.mypageBtn:
                 intent = new Intent(this, MypageActivity.class);
                 startActivity(intent);
+                overridePendingTransition(0,0);
                 finish();
                 break;
         }
