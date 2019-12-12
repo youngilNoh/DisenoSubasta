@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "62769214553-jmujf37rd8on9hve28evief6tfkjo4gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disenosubasta",
+            "certificate_hash": "d88d1d23ac8ea5f7535cac7f4a569744a62b4514"
+          }
+        },
+        {
           "client_id": "62769214553-tvpppbi8l3jkichuocog3psnqltjjb0g.apps.googleusercontent.com",
           "client_type": 3
         }
