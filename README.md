@@ -11,11 +11,19 @@ Auction platform for design.
 
 ### Icon
 <div>
-  <img width="50" src="https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png">
+  <img width="50" src="https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png" />
 </div>
 
 ### Splash
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/58302800/100687514-cc0d6000-33c3-11eb-98b4-2dc73511f91d.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100687514-cc0d6000-33c3-11eb-98b4-2dc73511f91d.jpg" />
 </div>
 
+### Layout
+<div>
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100687785-4938d500-33c4-11eb-9e6c-1f7c4c68d7bb.png" />
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100687879-771e1980-33c4-11eb-87d1-06e488fee2b3.png" />
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100687994-b0568980-33c4-11eb-8062-19e386562aa5.png" />
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100688046-cb28fe00-33c4-11eb-9742-3b20c7e04179.png" />
+  <img width="200" src="https://user-images.githubusercontent.com/58302800/100688121-eeec4400-33c4-11eb-893c-e4319f402e4e.png" />
+</div>
