@@ -10,3 +10,5 @@ Auction platform for design.
 ## Screenshots
 ### Icon
 ![disenosubasta_launcher-web](https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png)
+### Splash
+![disenosubasta_splash](https://user-images.githubusercontent.com/58302800/100687514-cc0d6000-33c3-11eb-98b4-2dc73511f91d.jpg)
