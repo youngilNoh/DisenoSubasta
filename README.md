@@ -12,7 +12,8 @@ Auction platform for design.
 ### Icon
 <div>
   <img width="50" src="https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png">
- </div>
+</div>
+
 ### Splash
 <div>
   <img width="200" src="https://user-images.githubusercontent.com/58302800/100687514-cc0d6000-33c3-11eb-98b4-2dc73511f91d.jpg">
