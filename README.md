@@ -8,7 +8,9 @@ Auction platform for design.
 또한 단순 의류 경매가 아닌, 의류 디자인을 경매하는 플랫폼이라는 점이 새로운 경쟁 포인트가 될 것 같아서 진행했습니다.
 
 ## Screenshots
+<div>
 ### Icon
-![disenosubasta_launcher-web](https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png)
+<img width="50" src="https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png">
 ### Splash
-![disenosubasta_splash](https://user-images.githubusercontent.com/58302800/100687514-cc0d6000-33c3-11eb-98b4-2dc73511f91d.jpg)
+<img width="200" src="https://user-images.githubusercontent.com/58302800/100687403-99636780-33c3-11eb-912b-aec405aedc2c.png">
+</div>
